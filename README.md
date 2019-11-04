@@ -4,7 +4,7 @@
 
 A generic and scalable backend API that uses new technologies and good design practices.
 
-# getting started (for my reference)
+## Getting started (for my reference)
 
 installed dependencies
 
