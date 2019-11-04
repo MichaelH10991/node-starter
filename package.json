@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "A generic, scalable node backend with a mongo databae.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike Humphries",
+  "license": "ISC",
+  "repository": "git@github.com:MichaelH10991/node-starter.git"
+}
